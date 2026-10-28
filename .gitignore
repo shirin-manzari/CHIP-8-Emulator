@@ -1,0 +1,13 @@
+*.exe
+*.o
+*.a
+*.dll
+*.pdb
+*.gcda
+*.gcno
+/build/
+/.vs/
+/tests/test_rom.tmp
+*.swp
+*~
+notes.md
